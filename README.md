@@ -1,9 +1,9 @@
 # BSc-CSIT-Materials
-Notes, Books, References, Tutorials, Labs, Assignments, Tips, etc.
+Notes, Books, References, Tutorials, Labs, Assignments, Tips, etc.<br>
 Everything you need as a BSc. CSIT student in one place!!!
 ----------------------------
 
-<b>NOTE!!</b>
+<b>NOTE!!</b><br>
 Not all of these files are owned by me, in fact, most of them are not mine.
 However, the credits have been given to the known owners of file, and I sincerely thank them for their hard work.
 This is just a recollection and general organization of BSc. CSIT materials gathered from different places into one.
